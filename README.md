@@ -15,6 +15,7 @@ Please replace yahoo's url to hostinb base url:
   * http://pic.wretch.cc/photos/icon/blog/smiley/msn/
   * http://tw.yimg.com/i/tw/blog/smiley/
   * http://l.yimg.com/f/i/tw/blog/smiley/
+  * http://l.yimg.com/f/i/tw/wretch/yahootalent/
 * hosting base url: ```https://raw.github.com/girvan/yahoo_smiley/master/imgs/```
 
 Example:
